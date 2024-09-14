@@ -1,0 +1,23 @@
+{
+  "name": "1234567890-123",
+  "version": "1.0.0",
+  "description": "book record mgmt s/m",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ravitejat1234/1234567890-123.git"
+  },
+  "author": "RT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ravitejat1234/1234567890-123/issues"
+  },
+  "homepage": "https://github.com/Ravitejat1234/1234567890-123#readme",
+  "dependencies": {
+    "express": "^4.21.0",
+    "nodemon": "^3.1.4"
+  }
+}
